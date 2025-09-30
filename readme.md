@@ -1,7 +1,7 @@
 # 🚀 Explore Briefly, Then Decide: Mitigating LLM Overthinking via Cumulative Entropy Regulation
 -----------------
 
-[📄 Paper](https://github.com/LWL-cpu/Question-Free-Fine-Tuning) | [🤖 Model](#model) | [📊 Dataset](#dataset)
+<div align="center">[📄 Paper](https://github.com/LWL-cpu/Question-Free-Fine-Tuning) | [🤖 Model](#model) | [📊 Dataset](#dataset)</div>
 
 ## 🌟 Introduction
 
@@ -32,8 +32,6 @@ USE_MEGATRON=0 bash scripts/install_vllm_sglang_mcore.sh
 cd verl
 pip install --no-deps -e .
 ```
-
-💡 We recommend using GPUs with **large memory capacity**, since computing logprobs requires storing entropy values for reward calculation, which can easily lead to OOM errors.
 
 ---
 
