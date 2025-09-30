@@ -1,7 +1,7 @@
 # 🚀 Explore Briefly, Then Decide: Mitigating LLM Overthinking via Cumulative Entropy Regulation
 -----------------
 
-<div align="center">[📄 Paper](https://github.com/LWL-cpu/Question-Free-Fine-Tuning) | [🤖 Model](#model) | [📊 Dataset](#dataset)</div>
+[📄 Paper](https://github.com/AusertDream/CumulativeEntropyRegulation) | [🤖 Model](#model) | [📊 Dataset](#dataset)
 
 ## 🌟 Introduction
 
@@ -11,7 +11,7 @@ Our work investigates *overthinking* in Large Language Models (LLMs) from an **e
 We define the **T**oken **E**ntropy **C**umulative **A**verage (**TECA**) as the moving cumulative average of token entropy.  
 Based on this, we propose a new reasoning paradigm: **"Explore Briefly, Then Decide"**.  
 
-We argue that overthinking often arises from uncertainty during exploration. Instead, models should explore briefly and then *commit to an answer*. By incorporating the final TECA value into reinforcement learning rewards, we train models that effectively reduce overthinking. Detailed analysis and results can be found in our paper.  
+We argue that overthinking often arises from uncertainty during exploration. Instead, models should explore briefly and then commit to an answer. By incorporating the final TECA value into reinforcement learning rewards, we train models that effectively reduce overthinking. Detailed analysis and results can be found in our paper.  
 
 We open-source our **models**, **datasets**, and **code** here for the community. 🎉
 
