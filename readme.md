@@ -154,5 +154,10 @@ python file.py
 ## 📖 Citation
 
 ```bibtex
-Coming Soon...
+@misc{jiang2025explorebrieflydecidemitigating,
+      title={Explore Briefly, Then Decide: Mitigating LLM Overthinking via Cumulative Entropy Regulation}, 
+      author={Tianyi Jiang and Yi Bin and Yujuan Ding and Kainian Zhu and Fei Ma and Jingkuan Song and Heng Tao Shen},
+      journal={arXiv preprint arXiv:2510.02249},
+      year={2025}
+}
 ```
