@@ -1,7 +1,7 @@
 # 🚀 Explore Briefly, Then Decide: Mitigating LLM Overthinking via Cumulative Entropy Regulation
 -----------------
 
-[📄 Paper](https://github.com/AusertDream/CumulativeEntropyRegulation) | [🤖 Model](#model) | [📊 Dataset](#dataset)
+[📄 Paper](https://arxiv.org/abs/2510.02249) | [🤖 Model](#model) | [📊 Dataset](#dataset)
 
 ## 🌟 Introduction
 
