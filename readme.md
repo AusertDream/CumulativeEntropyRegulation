@@ -154,10 +154,10 @@ python file.py
 ## 📖 Citation
 
 ```bibtex
-@misc{jiang2025explorebrieflydecidemitigating,
-      title={Explore Briefly, Then Decide: Mitigating LLM Overthinking via Cumulative Entropy Regulation}, 
-      author={Tianyi Jiang and Yi Bin and Yujuan Ding and Kainian Zhu and Fei Ma and Jingkuan Song and Heng Tao Shen},
-      journal={arXiv preprint arXiv:2510.02249},
-      year={2025}
+@article{jiang2025explore,
+  title={Explore Briefly, Then Decide: Mitigating LLM Overthinking via Cumulative Entropy Regulation},
+  author={Jiang, Tianyi and Bin, Yi and Ding, Yujuan and Zhu, Kainian and Ma, Fei and Song, Jingkuan and Shen, Heng Tao},
+  journal={arXiv preprint arXiv:2510.02249},
+  year={2025}
 }
 ```
