@@ -150,14 +150,3 @@ python file.py
 | **CER (ours)** | 65.56 |  9171.56   | 18.46% | 53.33 |  9894.51   | 22.14% |    69.32    | 5718.54 |
 
 ---
-
-## 📖 Citation
-
-```bibtex
-@article{jiang2025explore,
-  title={Explore Briefly, Then Decide: Mitigating LLM Overthinking via Cumulative Entropy Regulation},
-  author={Jiang, Tianyi and Bin, Yi and Ding, Yujuan and Zhu, Kainian and Ma, Fei and Song, Jingkuan and Shen, Heng Tao},
-  journal={arXiv preprint arXiv:2510.02249},
-  year={2025}
-}
-```
